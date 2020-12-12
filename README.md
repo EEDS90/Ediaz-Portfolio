@@ -71,7 +71,7 @@ Link to Repo:https://github.com/EEDS90/Personal-Development
 
 #Contact
 
-- LinkedIn:linkedin.com/in/edwin-diaz-663b93194
+- LinkedIn:https://www.linkedin.com/in/edwin-diaz-663b93194/detail/contact-info/
 - Github:https://github.com/EEDS90
 - Email:ee.diaz.susana1@gmail.com
 
