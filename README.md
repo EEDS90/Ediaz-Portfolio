@@ -36,7 +36,7 @@ Client (Front End)
 
 #MVP:
 
-#About me
+# About me
 
 - Personal brand statement: 
 Technology professional proficient in finding solutions that drive organizational processes and exceed customer expectations. Adaptable to the ever-changing IT landscape and focused on providing solutions that meet the needs of my team, the organization and the customer. Bilingual professional with fluency in Spanish/English with strong problem solving and analytical skills.
@@ -49,7 +49,7 @@ HTML5, CSS, JavaScript, React.js, Node.js, Ruby on Rails, SQL, PostgreSQL, Mongo
 General Assembly
 Full-time fellow in a Software Engineer Immersive (SEI) program, receieved over 500+ hours of Software Engineering instructions on web development concepts, designing and building web applications with full CRUD functionality and backend development using Ruby on rails.
 
-#Projects
+# Projects
 
 - Rotten Potatoes 
 This user friendly React app allows users to access New Releases with a cool hover over overview feature and allows the user to create their own reviews. It was created using conditional rendering with mock API data.
@@ -69,13 +69,13 @@ iAlchemy, is a full stack front and and backend website that offers advice on be
 Link to App:https://ialchemy.netlify.app/
 Link to Repo:https://github.com/EEDS90/Personal-Development
 
-#Contact
+# Contact
 
 - LinkedIn:https://www.linkedin.com/in/edwin-diaz-663b93194/detail/contact-info/
 - Github:https://github.com/EEDS90
 - Email:ee.diaz.susana1@gmail.com
 
-#Quality User Flow
+# Quality User Flow
 
 - Easy to navigate between projcts
 - NavBar
