@@ -1,0 +1,80 @@
+.header {
+  box-shadow: 0 3px 3px 0 rgb(255, 0, 0);
+  margin-top: -10px;
+}
+
+.home {
+  color: rgb(255, 0, 0);
+}
+
+a {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: black;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100px;
+  height: 130px;
+  text-shadow: 1px 1px #000000;
+}
+
+a:hover {
+  color: rgb(255, 0, 0);
+  
+}
+
+.header-item {
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -45px;
+  
+}
+
+.header5 {
+  height: 10vh;
+}
+
+.title {
+  text-shadow: 5px 5px #000000;
+  width: 10rem;
+  font-weight: 700;
+  font-size: 80px;
+  justify-content: center;
+  margin-top: 10px;
+  color: rgb(255, 0, 0);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  
+}
+
+.questions {
+  text-align: center;
+}
+
+.before_login {
+  display: flex;
+  padding: 5%;
+}
+
+.current_user {
+  margin-right: 8px;
+}
+
+.current_logout {
+  margin-top: 0;
+  color: white;
+  font-weight: 700;
+}
+
+.magic2 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: -55%;
+  text-decoration: none;
+  background-color:white;
+  text-shadow: 1px 1px #000000;
+}
