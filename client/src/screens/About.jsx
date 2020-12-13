@@ -14,13 +14,7 @@ export default function About(props) {
           Bilingual professional with fluency in Spanish/English with strong
           problem solving and analytical skills.
         </p>
-        <div>
-          <h2>Languages, tech stacks and databases:</h2>
-          <p>
-            HTML5, CSS, JavaScript, React.js, Node.js, Ruby on Rails, SQL,
-            PostgreSQL, MongoDB, NoSQL, GitHub, Bootstrap, Git.
-          </p>
-        </div>
+
         <div>
           <h3>Resume</h3>
           <p>
