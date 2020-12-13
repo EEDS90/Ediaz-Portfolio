@@ -23,7 +23,7 @@ My goals is to create a portfolio where I get to showcase my personal brand.
 | :--------------: | :----------------------------------------- |
 |      React       | _Frontend._                                |
 |   React Router   | _User Routing._                            |
-| Ruby on Rails    | _Backend._                                 |
+
 
 
 
