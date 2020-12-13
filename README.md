@@ -24,8 +24,7 @@ My goals is to create a portfolio where I get to showcase my personal brand.
 |      React       | _Frontend._                                |
 |   React Router   | _User Routing._                            |
 | Ruby on Rails    | _Backend._                                 |
-|     Axios        | _Connect front to back._                   |
-|      SQL         | _Manage the database and tables._          |
+
 
 
 Client (Front End)
