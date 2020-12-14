@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom';
 import './App.css';
 import Layout from './layouts/Layout';
 import About from './screens/About';
+import Work from './screens/Work';
 import Contact from './screens/Contact';
 import Main from './containers/Main';
 
@@ -12,10 +13,11 @@ function App() {
     <Layout>
       <Switch>
           <Route path='/about'>
-            About Me Section
+            {/* About Me Section */}
             <About />
           </Route>
-          <Route path='/work'>
+        <Route path='/work'>
+          <Work />
           </Route>
           <Route path='/contact'>
             {/* Contact Section */ }
