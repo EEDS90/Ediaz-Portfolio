@@ -23,7 +23,18 @@ export default function Contact(props) {
             >
               <button className="gh-buttons">GitHub</button>
             </a>
+            <a
+              href="ee.diaz.susana1@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <button className="gh-buttons">Email</button>
+            </a>
           </div>
+
+
+
+
             </div>
         </>
     )

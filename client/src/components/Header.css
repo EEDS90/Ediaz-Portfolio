@@ -49,32 +49,5 @@ a:hover {
   
 }
 
-.questions {
-  text-align: center;
-}
 
-.before_login {
-  display: flex;
-  padding: 5%;
-}
 
-.current_user {
-  margin-right: 8px;
-}
-
-.current_logout {
-  margin-top: 0;
-  color: white;
-  font-weight: 700;
-}
-
-.magic2 {
-  font-family: "Comic Sans MS", cursive, sans-serif;
-  border-radius: 5px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  margin-left: -55%;
-  text-decoration: none;
-  background-color:white;
-  text-shadow: 1px 1px #000000;
-}
