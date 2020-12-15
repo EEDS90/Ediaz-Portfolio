@@ -10,7 +10,7 @@ export default function Contact(props) {
                 
           <div className="project-buttons">
             <a
-              href=" https://www.linkedin.com/in/edwin-diaz-663b93194/"
+              href=" https://www.linkedin.com/in/edwin-diaz-663b93194/ "
               target="_blank"
               rel="noopener noreferrer"
             >

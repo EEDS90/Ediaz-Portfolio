@@ -15,12 +15,16 @@ export default function About(props) {
           problem solving and analytical skills.
         </p>
 
-        <div>
-          <h3>Resume</h3>
-          <p>
-            <a></a>
-          </p>
-        </div>
+        <div className="project-buttons">
+            <a
+              href=" https://1drv.ms/w/s!AmKeOpQ51dd4a4Roe0k5FYCH5WQ "
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <button className="ls-buttons">Resume</button>
+            </a>
+            
+          </div>
       </div>
     </>
   );
