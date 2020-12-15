@@ -11,22 +11,22 @@ export default function Header() {
           <ul className="header-item">
             <li className="home">
               <Link to="/">
-                <a>Home</a>
+                <p>Home</p>
               </Link>
             </li>
             <li className="about">
               <Link to="/about">
-                <a>About Me</a>
+                <p>About Me</p>
               </Link>
             </li>
             <li className="work">
               <Link to="/work">
-                <a>Work</a>
+                <p>Work</p>
               </Link>
             </li>
             <li className="contact">
               <Link to="/contact">
-                <a>Contact</a>
+                <p>Contact</p>
               </Link>
             </li>
           </ul>

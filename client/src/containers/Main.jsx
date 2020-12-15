@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "./Main.css";
 import image4 from "../../src/assets/profile.png";
 
