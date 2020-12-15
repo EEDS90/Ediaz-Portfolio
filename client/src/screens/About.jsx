@@ -130,15 +130,7 @@ export default function About(props) {
         </div>
       </div>
 
-      <div className="project-buttons">
-        <a
-          href=" https://1drv.ms/w/s!AmKeOpQ51dd4a4Roe0k5FYCH5WQ "
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <button className="ls-buttons">Resume</button>
-        </a>
-      </div>
+      
     </>
   );
 }
