@@ -23,7 +23,7 @@ export default function Work(props) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <button className="ls-buttons">Visit Site</button>
+              <button className="ls-buttons">Rotten Potatoes</button>
             </a>
             <a
               href="https://github.com/EEDS90/Movie-App"
@@ -57,7 +57,7 @@ export default function Work(props) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <button className="ls-buttons">Visit Site</button>
+              <button className="ls-buttons">Nurse Line</button>
             </a>
             <a
               href="https://github.com/MakerMacAttack/nurse-line"
@@ -90,7 +90,7 @@ export default function Work(props) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <button className="ls-buttons">Visit Site</button>
+              <button className="ls-buttons">iAlchemy</button>
             </a>
             <a
               href="https://github.com/EEDS90/Personal-Development"
